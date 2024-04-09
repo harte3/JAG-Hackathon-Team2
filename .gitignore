@@ -1,0 +1,8 @@
+#ignoring all .zip files
+*.zip
+
+# ignore arcos data - too large
+data/arcos_all_washpost.tsv
+
+# ignore checkpoints
+.ipynb_checkpoints
