@@ -4,6 +4,7 @@
 # ignore arcos data - too large
 data/arcos/arcos_all_washpost.tsv
 data/500_Cities__Local_Data_for_Better_Health__2019_release_20240416.csv
+data/PLACES__Local_Data_for_Better_Health__Census_Tract_Data_2023_release_20240418.csv
 
 # ignore checkpoints
 .ipynb_checkpoints
